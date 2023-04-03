@@ -1,2 +1,2 @@
 # py-fileman
- simple-file-manager in pythnon
+ simple-file-manager in pythnon tk
